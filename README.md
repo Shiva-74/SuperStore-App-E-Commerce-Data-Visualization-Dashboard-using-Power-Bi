@@ -1,4 +1,4 @@
-# 📊 Superstore Business Performance & Strategic Analysis Dashboard
+# 📊 Superstore Business Performance & Strategic Analysis Dashboard using Power Bi
 
 ## 🚀 Project Overview
 This project is an advanced decision-support dashboard built using Power BI to analyze business performance, profitability issues, and operational inefficiencies in the Superstore dataset.
@@ -90,14 +90,23 @@ Revenue growth alone is not enough — profitability depends on optimizing disco
 ---
 
 ## 📸 Dashboard Preview
-(Add your screenshots here)
+### Financial Overview
+![Financial Dashboard](ss-1.png)
+
+### Product & Discount Analysis
+![Product Dashboard](ss-2.png)
+
+### Regional Performance
+![Regional Dashboard](ss-3.png)
+
+### Shipping Analysis
+![Shipping Dashboard](ss-4.png)
 
 ---
 
 ## 📁 Project Files
 - Power BI Dashboard (.pbix)
 - Dataset (CSV)
-- Presentation (PPT)
 
 ---
 
